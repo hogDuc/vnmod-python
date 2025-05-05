@@ -7,7 +7,7 @@ from underthesea import text_normalize
 import geopandas as gpd
 import plotly.express as px 
 
-if "__name__"=="__main":
+if "__name__"=="__main__":
     st.logo(
         image='https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/453235411_475775001872764_4435076249897854084_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=0lI8dxcOJHAQ7kNvwHG8dAX&_nc_oc=AdnvOwPvZjZ0fpGYFoemM2di5C0VtXWKg5AAsPEniYetUVsxYpR2KNyV-wgMOivp-GqG3ejyKC5XGBJgpM5SXNli&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=GqSTdnmXZh51d3FmFvHNzA&oh=00_AfGh_WsOTU0P-EzgTsxPKHbrdoN81uISXCscQj9xwb33jQ&oe=6811278A',
         icon_image='https://scontent.fhan14-5.fna.fbcdn.net/v/t39.30808-6/453235411_475775001872764_4435076249897854084_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=0lI8dxcOJHAQ7kNvwHG8dAX&_nc_oc=AdnvOwPvZjZ0fpGYFoemM2di5C0VtXWKg5AAsPEniYetUVsxYpR2KNyV-wgMOivp-GqG3ejyKC5XGBJgpM5SXNli&_nc_zt=23&_nc_ht=scontent.fhan14-5.fna&_nc_gid=GqSTdnmXZh51d3FmFvHNzA&oh=00_AfGh_WsOTU0P-EzgTsxPKHbrdoN81uISXCscQj9xwb33jQ&oe=6811278A',
