@@ -1,6 +1,0 @@
-streamlit
-polars
-numpy
-underthesea
-geopandas
-plotly
