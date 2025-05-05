@@ -1,0 +1,701 @@
+"","vung","tentinh","tenhuyen","min_salary"
+"1","I","Thành phố Hồ Chí Minh","Quận 1",4960
+"2","I","Thành phố Hồ Chí Minh","Quận 3",4960
+"3","I","Thành phố Hồ Chí Minh","Quận 4",4960
+"4","I","Thành phố Hồ Chí Minh","Quận 5",4960
+"5","I","Thành phố Hồ Chí Minh","Quận 6",4960
+"6","I","Thành phố Hồ Chí Minh","Quận 7",4960
+"7","I","Thành phố Hồ Chí Minh","Quận 8",4960
+"8","I","Thành phố Hồ Chí Minh","Quận 10",4960
+"9","I","Thành phố Hồ Chí Minh","Quận 11",4960
+"10","I","Thành phố Hồ Chí Minh","Quận 12",4960
+"11","I","Thành phố Hồ Chí Minh","Quận Bình Thạnh",4960
+"12","I","Thành phố Hồ Chí Minh","Quận Tân Phú",4960
+"13","I","Thành phố Hồ Chí Minh","Quận Tân Bình",4960
+"14","I","Thành phố Hồ Chí Minh","Quận Bình Tân",4960
+"15","I","Thành phố Hồ Chí Minh","Quận Phú Nhuận",4960
+"16","I","Thành phố Hồ Chí Minh","Quận Gò Vấp",4960
+"17","I","Thành phố Hồ Chí Minh","Thành phố Thủ Đức",4960
+"18","I","Thành phố Hồ Chí Minh","Huyện Củ Chi",4960
+"19","I","Thành phố Hồ Chí Minh","Huyện Hóc Môn",4960
+"20","I","Thành phố Hồ Chí Minh","Huyện Bình Chánh",4960
+"21","I","Thành phố Hồ Chí Minh","Huyện Nhà Bè",4960
+"22","I","Hải Phòng","Quận Hồng Bàng",4960
+"23","I","Hà Nội","Quận Ba Đình",4960
+"24","I","Hà Nội","Quận Bắc Từ Liêm",4960
+"25","I","Hà Nội","Quận Cầu Giấy",4960
+"26","I","Hà Nội","Quận Đống Đa",4960
+"27","I","Hà Nội","Quận Hà Đông",4960
+"28","I","Hà Nội","Quận Hai Bà Trưng",4960
+"29","I","Hà Nội","Quận Hoàn Kiếm",4960
+"30","I","Hà Nội","Quận Hoàng Mai",4960
+"31","I","Hà Nội","Quận Long Biên",4960
+"32","I","Hà Nội","Quận Nam Từ Liêm",4960
+"33","I","Hà Nội","Quận Tây Hồ",4960
+"34","I","Hà Nội","Quận Thanh Xuân",4960
+"35","I","Hà Nội","Huyện Gia Lâm",4960
+"36","I","Hà Nội","Huyện Đông Anh",4960
+"37","I","Hà Nội","Huyện Sóc Sơn",4960
+"38","I","Hà Nội","Huyện Thường Tín",4960
+"39","I","Hà Nội","Huyện Hoài Đức",4960
+"40","I","Hà Nội","Huyện Thạch Thất",4960
+"41","I","Hà Nội","Huyện Quốc Oai",4960
+"42","I","Hà Nội","Huyện Thanh Oai",4960
+"43","I","Hà Nội","Huyện Mê Linh",4960
+"44","I","Hà Nội","Huyện Chương Mỹ",4960
+"45","I","Hà Nội","Thị xã Sơn Tây",4960
+"46","I","Bình Dương","Huyện Dầu Tiếng",4960
+"47","I","Bà Rịa - Vũng Tàu","Thành phố Vũng Tàu",4960
+"48","I","Bà Rịa - Vũng Tàu","Thị xã Phú Mỹ",4960
+"49","I","Bình Dương","Thành phố Thuận An",4960
+"50","I","Hải Phòng","Quận Hải An",4960
+"51","I","Hải Phòng","Quận Đồ Sơn",4960
+"52","I","Bình Dương","Thành phố Thủ Dầu Một",4960
+"53","I","Bình Dương","Huyện Bàu Bàng",4960
+"54","I","Bình Dương","Thành phố Dĩ An",4960
+"55","I","Bình Dương","Thành phố Tân Uyên",4960
+"56","I","Bình Dương","Thành phố Bến Cát",4960
+"57","I","Hải Phòng","Quận Dương Kinh",4960
+"58","I","Bình Dương","Huyện Bắc Tân Uyên",4960
+"59","I","Hải Phòng","Huyện Tiên Lãng",4960
+"60","I","Bình Dương","Huyện Phú Giáo",4960
+"61","I","Hải Phòng","Quận Ngô Quyền",4960
+"62","I","Hải Phòng","Quận Lê Chân",4960
+"63","I","Đồng Nai","Thành phố Biên Hoà",4960
+"64","I","Đồng Nai","Thành phố Long Khánh",4960
+"65","I","Hải Phòng","Huyện An Dương",4960
+"66","I","Hải Phòng","Huyện An Lão",4960
+"67","I","Hải Phòng","Quận Kiến An",4960
+"68","I","Hải Phòng","Huyện Thuỷ Nguyên",4960
+"69","I","Hải Phòng","Huyện Cát Hải",4960
+"70","I","Hải Phòng","Huyện Kiến Thuỵ",4960
+"71","I","Hải Phòng","Huyện Vĩnh Bảo",4960
+"72","I","Long An","Huyện Cần Giuộc",4960
+"73","I","Đồng Nai","Huyện Tràng Bom",4960
+"74","I","Đồng Nai","Huyện Nhơn Trạch",4960
+"75","I","Đồng Nai","Huyện Long Thành",4960
+"76","I","Đồng Nai","Huyện Vĩnh Cửu",4960
+"77","I","Quảng Ninh","thị xã Quảng Yên",4960
+"78","I","Đồng Nai","Huyện Xuân Lộc",4960
+"79","I","Đồng Nai","Huyện Thống Nhất",4960
+"80","I","Long An","Huyện Cần Đước",4960
+"81","I","Quảng Ninh","Thành phố Móng Cái",4960
+"82","I","Quảng Ninh","thị xã Đông Triều",4960
+"83","I","Quảng Ninh","Thành phố Hạ Long",4960
+"84","I","Quảng Ninh","Thành phố Uông Bí",4960
+"85","I","Long An","Huyện Bến Lức",4960
+"86","I","Long An","Thành phố Tân An",4960
+"87","I","Hải Dương","Thành phố Hải Dương",4960
+"88","I","Long An","Huyện Đức Hoà",4960
+"89","I","Long An","Huyện Thủ Thừa",4960
+"90","II","Hải Phòng","Huyện Bạch Long Vĩ",4410
+"91","II","Hà Nội","Huyện Đan Phượng",4410
+"92","II","Hà Nội","Huyện Ứng Hoà",4410
+"93","II","Hà Nội","Huyện Phúc Thọ",4410
+"94","II","Thành phố Hồ Chí Minh","Huyện Cần Giờ",4410
+"95","II","Thừa Thiên Huế","Thành phố Huế",4410
+"96","II","Hà Nội","Huyện Phú Xuyên",4410
+"97","II","Hà Nội","Huyện Mỹ Đức",4410
+"98","II","An Giang","thành phố Long Xuyên",4410
+"99","II","Đồng Nai","Huyện Cầm Mỹ",4410
+"100","II","Phú Thọ","Thành phố Việt Trì",4410
+"101","II","Bà Rịa - Vũng Tàu","Thành phố Bà Rịa",4410
+"102","II","Hà Nội","Huyện Ba Vì",4410
+"103","II","Hải Dương","Huyện Tứ Kỳ",4410
+"104","II","Quảng Ninh","Thành phố Cẩm Phả",4410
+"105","II","Vĩnh Phúc","Thành phố Vĩnh Yên",4410
+"106","II","Trà Vinh","Thành phố Trà Vinh",4410
+"107","II","Lâm Đồng","Thành phố Đà Lạt",4410
+"108","II","Hoà Bình","Thành phố Hoà Bình",4410
+"109","II","Quảng Nam","Thành phố Tam Kỳ",4410
+"110","II","Đà Nẵng","Quận Ngũ Hành Sơn",4410
+"111","II","Hải Dương","Huyện Cẩm Giàng",4410
+"112","II","Hải Dương","Huyện Nam Sách",4410
+"113","II","Hoà Bình","Huyện Lương Sơn",4410
+"114","II","Hải Dương","Huyện Gia Lộc",4410
+"115","II","Hải Dương","Huyện Bình Giang",4410
+"116","II","Bắc Giang","Thị xã Yên Việt",4410
+"117","II","Hải Dương","Huyện Kim Thành",4410
+"118","II","Đà Nẵng","Quận Sơn Trà",4410
+"119","II","An Giang","thành phố Châu Đốc",4410
+"120","II","Vĩnh Phúc","Thành phố Phúc Yên",4410
+"121","II","Đà Nẵng","Quận Hải Châu",4410
+"122","II","Hải Dương","Thành phố Chí Linh",4410
+"123","II","Hải Dương","Thị xã Kinh Môn",4410
+"124","II","Đồng Nai","Huyện Định Quán",4410
+"125","II","Đồng Nai","Huyện Tân Phú",4410
+"126","II","Long An","Thị xã Kiến Tường",4410
+"127","II","Long An","Huyện Thủ Thừa",4410
+"128","II","Bắc Giang","Thành phố Bắc Giang",4410
+"129","II","Bắc Ninh","Thành phố Bắc Ninh",4410
+"130","II","Bắc Giang","Huyện Yên Dũng",4410
+"131","II","Nghệ An","Huyện Hưng Nguyên",4410
+"132","II","Lào Cai","Thành phố Lào Cai",4410
+"133","II","Bắc Ninh","Huyện Tiên Du",4410
+"134","II","Cần Thơ","Quận Ninh Kiều",4410
+"135","II","Lâm Đồng","Thành phố Bảo Lộc",4410
+"136","II","Hưng Yên","Thành phố Hưng Yên",4410
+"137","II","Hưng Yên","Thị xã Mỹ Hào",4410
+"138","II","Hưng Yên","Huyện Văn Lâm",4410
+"139","II","Hưng Yên","Huyện Văn Giang",4410
+"140","II","Hưng Yên","Huyện Yên Mỹ",4410
+"141","II","Quảng Nam","Thành phố Hội An",4410
+"142","II","Khánh Hoà","Thị xã Ninh Hoà",4410
+"143","II","Bắc Ninh","Thành phố Từ Sơn",4410
+"144","II","Bắc Ninh","Thị xã Quế Võ",4410
+"145","II","Bắc Ninh","Thị xã Thuận Thành",4410
+"146","II","Kiên Giang","Thành phố Phú Quốc",4410
+"147","II","Bắc Ninh","Huyện Yên Phong",4410
+"148","II","Vĩnh Phúc","Huyện Bình Xuyên",4410
+"149","II","Vĩnh Phúc","Huyện Yên Lạc",4410
+"150","II","Cần Thơ","Quận Ô Môn",4410
+"151","II","Cần Thơ","Quận Thốt Nốt",4410
+"152","II","Thái Nguyên","Thành phố Phổ Yên",4410
+"153","II","Bình Phước","Thị xã Chơn Thành",4410
+"154","II","Thanh Hoá","Thành phố Thanh Hoá",4410
+"155","II","Nam Định","Thành phố Nam Định",4410
+"156","II","Thái Bình","Thành phố Thái Bình",4410
+"157","II","Nghệ An","Huyện Nghi Lộc",4410
+"158","II","Kiên Giang","Thành phố Hà Tiên",4410
+"159","II","Tây Ninh","Thành phố Tây Ninh",4410
+"160","II","Tây Ninh","Thị xã Hoà Thành",4410
+"161","II","Bắc Ninh","Huyện Gia Bình",4410
+"162","II","Bắc Ninh","Huyện Lương Tài",4410
+"163","II","Thái Nguyên","Thành phố Thái Nguyên",4410
+"164","II","Thái Nguyên","Thành phố Sông Công",4410
+"165","II","Vĩnh Long","Thành phố Vĩnh Long",4410
+"166","II","Vĩnh Long","Thị xã Bình Minh",4410
+"167","II","Bình Phước","Huyện Đồng Phú",4410
+"168","II","Khánh Hoà","Thành phố Cam Ranh",4410
+"169","II","Bạc Liêu","Thành phố Bạc Liệu",4410
+"170","II","Kiên Giang","Thành phố Rạch Giá",4410
+"171","II","Thanh Hoá","Thành phố Sầm Sơn",4410
+"172","II","Tiền Giang","Thành phố Mỹ Tho",4410
+"173","II","Tây Ninh","Thị xã Trảng Bàng",4410
+"174","II","Bình Thuân","Thành phố Phan Thiết",4410
+"175","II","Cần Thơ","Quận Bình Thuỷ",4410
+"176","II","Khánh Hoà","Thành phố Nha Trang",4410
+"177","II","Tiền Giang","Huyện Châu Thành",4410
+"178","II","Cà Mau","Thành phố Cà Mau",4410
+"179","II","Đà Nẵng","Huyện đảo Hoàng Sa",4410
+"180","II","Nghệ An","Thành phố Vinh",4410
+"181","II","Bình Phước","Thành phố Đồng Xoài",4410
+"182","II","Đà Nẵng","Quận Cẩm Lệ",4410
+"183","II","Nghệ An","Thị xã Cửa Lò",4410
+"184","II","Đà Nẵng","Quận Thanh Khê",4410
+"185","II","Cần Thơ","Quận Cái Răng",4410
+"186","II","Đà Nẵng","Quận Liên Chiểu",4410
+"187","II","Bến Tre","Thành phố Bến Tre",4410
+"188","II","Đà Nẵng","Huyện Hoà Vang",4410
+"189","II","Tây Ninh","Huyện Gò Dầu",4410
+"190","II","Ninh Bình","Thành phố Ninh Bình",4410
+"191","II","Thanh Hoá","Thị xã Nghi Sơn",4410
+"192","II","Thanh Hoá","Thị xã Bỉm Sơn",4410
+"193","II","Bến Tre","Huyện Châu Thành",4410
+"194","II","Sóc Trăng","Thành phố Sóc Trăng",4410
+"195","II","Quảng Bình","Thành phố Đồng Hới",4410
+"196","III","Hưng Yên","Huyện Kim Động",3860
+"197","III","Bà Rịa - Vũng Tàu","Huyện Côn Đảo",3860
+"198","III","Quảng Nam","Huyện Quế Sơn",3860
+"199","III","Quảng Ninh","Huyện Tiên Yên",3860
+"200","III","Bắc Giang","Huyện Lạng Giang",3860
+"201","III","Tiền Giang","Huyện Chợ Gạo",3860
+"202","III","Bà Rịa - Vũng Tàu","Huyện Xuyên Mộc",3860
+"203","III","Hưng Yên","Huyện Khoái Châu",3860
+"204","III","Quảng Ninh","Huyện Hải Hà",3860
+"205","III","Bà Rịa - Vũng Tàu","Huyện Châu Đức",3860
+"206","III","Cần Thơ","Huyện Cờ Đỏ",3860
+"207","III","Phú Thọ","Thị xã Phú Thọ",3860
+"208","III","Nam Định","Huyện Mỹ Lộc",3860
+"209","III","Vĩnh Phúc","Huyện Lập Thạch",3860
+"210","III","Long An","Huyện Thạch Hoá",3860
+"211","III","Quảng Ninh","Huyện Đầm Hà",3860
+"212","III","Lào Cai","Thị xã Sa pa",3860
+"213","III","Đồng Tháp","Thành phố Hồng Ngự",3860
+"214","III","Phú Thọ","Huyện Lâm Thao",3860
+"215","III","Quảng Nam","Huyện Núi Thành",3860
+"216","III","Vĩnh Phúc","Huyện Vĩnh Tường",3860
+"217","III","Vĩnh Phúc","Huyện Tam Dương",3860
+"218","III","Cần Thơ","Huyện Phong Điền",3860
+"219","III","Tiền Giang","Thị xã Cai Lậy",3860
+"220","III","Hưng Yên","Huyện Ân Thi",3860
+"221","III","Thái Nguyên","Huyện Đồng Hỷ",3860
+"222","III","Đồng Tháp","Thành phố Sa Đéc",3860
+"223","III","Yên Bái","Thành phố Yên Bái",3860
+"224","III","Bình Phước","Huyện Lộc Ninh",3860
+"225","III","Bắc Giang","Huyện Tân Yên",3860
+"226","III","Phú Thọ","Huyện Phù Ninh",3860
+"227","III","Thừa Thiên Huế","Thị xã Hương Trà",3860
+"228","III","Thừa Thiên Huế","Huyện Phúc Lộc",3860
+"229","III","Thừa Thiên Huế","Huyện Phong Điền",3860
+"230","III","Thừa Thiên Huế","Huyện Quảng Điền",3860
+"231","III","Tiền Giang","Thành phố Gò Công",3860
+"232","III","Cà Mau","Huyện Năm Căn",3860
+"233","III","Vĩnh Long","Huyện Long Hồ",3860
+"234","III","Tiền Giang","Huyện Tân Phước",3860
+"235","III","Cà Mau","Huyện Trần Văn Thời",3860
+"236","III","Bình Phước","Huyện Hớn Quản",3860
+"237","III","Quảng Nam","Huyện Đại Lộc",3860
+"238","III","Quảng Nam","Huyện Duy Xuyên",3860
+"239","III","Thừa Thiên Huế","Thị xã Hương Thuỷ",3860
+"240","III","Quảng Nam","Huyện Phú Ninh",3860
+"241","III","Hậu Giang","Huyện Châu Thành",3860
+"242","III","Quảng Nam","Huyện Thăng Bình",3860
+"243","III","Đắk Lắk","Thành phố Buôn Mê Thuột",3860
+"244","III","Vĩnh Phúc","Huyện Tam Đảo",3860
+"245","III","Ninh Bình","Thành phố Tam Điệp",3860
+"246","III","Cà Mau","Huyện Cái Nước",3860
+"247","III","Ninh Bình","Huyện Yên Khánh",3860
+"248","III","Ninh Bình","Huyện Hoa Lư",3860
+"249","III","Quảng Nam","Thị xã Điện Bàn",3860
+"250","III","Hà Giang","Thành phố Hà Giang",3860
+"251","III","Bà Rịa - Vũng Tàu","Huyện Long Điền",3860
+"252","III","Hậu Giang","Thành phố Vị Thanh",3860
+"253","III","Nghệ An","Thị xã Hoàng Mai",3860
+"254","III","Nghệ An","Huyện Quỳnh Lưu",3860
+"255","III","Nghệ An","Huyện Yên Thành",3860
+"256","III","Nghệ An","Huyện Diễn Châu",3860
+"257","III","Lâm Đồng","Huyện Đức Trọng",3860
+"258","III","Lâm Đồng","Huyện Di Linh",3860
+"259","III","Hà Nam","Thành phố Phủ Lý",3860
+"260","III","Hà Nam","Thị xã Duy Tiên",3860
+"261","III","Hà Nam","Huyện Kim Bảng",3860
+"262","III","Hà Tĩnh","Thị xã Kỳ Anh",3860
+"263","III","Quảng Ninh","Huyện Vân Đồn",3860
+"264","III","Trà Vinh","Thị xã Duyên Hải",3860
+"265","III","Bắc Giang","Huyện Hiệp Hoà",3860
+"266","III","Hưng Yên","Huyện Tiên Lữ",3860
+"267","III","Hậu Giang","Thành phố Ngã Bảy",3860
+"268","III","Bình Thuân","Thị xã La Gi",3860
+"269","III","Bình Thuân","Huyện Hàm Thuận Bắc",3860
+"270","III","Hậu Giang","Huyện Châu Thành A",3860
+"271","III","Lạng Sơn","Thành phố Lạng Sơn",3860
+"272","III","Tây Ninh","Huyện Bến Cầu",3860
+"273","III","Ninh Bình","Huyện Gia Viễn",3860
+"274","III","Phú Yên","Thành phố Tuy Hoà",3860
+"275","III","Vĩnh Phúc","Huyện Sông Lô",3860
+"276","III","Bạc Liêu","Huyện Hoà Bình",3860
+"277","III","Nam Định","Huyện Giao Thuỷ",3860
+"278","III","Hưng Yên","Huyện Phù Cừ",3860
+"279","III","Nam Định","Huyện Nghĩa Hưng",3860
+"280","III","Nam Định","Huyện Trực Ninh",3860
+"281","III","Nam Định","Huyện Vụ Bản",3860
+"282","III","Nam Định","Huyện Xuân Trường",3860
+"283","III","Nam Định","Huyện Ý Yên",3860
+"284","III","Tây Ninh","Huyện Châu Thành",3860
+"285","III","Phú Thọ","Huyện Tam Nông",3860
+"286","III","Thừa Thiên Huế","Huyện Phú Vang",3860
+"287","III","Thái Nguyên","Huyện Phú Bình",3860
+"288","III","Thái Nguyên","Huyện Phú Lương",3860
+"289","III","Kon Tum","Huyện Đăk Hà",3860
+"290","III","Thái Nguyên","Huyện Đại Từ",3860
+"291","III","Thái Bình","Huyện Thái Thuỵ",3860
+"292","III","Điện Biên","Thành phố Điên Biên Phủ",3860
+"293","III","Bình Phước","Huyện Phú Riềng",3860
+"294","III","An Giang","Thị xã Tân Phú",3860
+"295","III","An Giang","Huyện Châu Phú",3860
+"296","III","An Giang","Huyện Châu Thành",3860
+"297","III","Phú Thọ","Huyện Thanh Ba",3860
+"298","III","Ninh Thuận","Huyện Thuận Bắc",3860
+"299","III","Ninh Thuận","Huyện Ninh Phước",3860
+"300","III","Nghệ An","Huyện Nghĩa Đàn",3860
+"301","III","Hà Tĩnh","Thành phố Hà Tĩnh",3860
+"302","III","Vĩnh Long","Huyện Mang Thít",3860
+"303","III","Đồng Tháp","Thành phố Cao Lãnh",3860
+"304","III","Phú Yên","Thị xã Đông Hoà",3860
+"305","III","Hải Dương","Huyện Thanh Hà",3860
+"306","III","Hải Dương","Huyện Thanh Miện",3860
+"307","III","Kiên Giang","Huyện Kiên Lương",3860
+"308","III","Lào Cai","Huyện Bảo Thắng",3860
+"309","III","Quảng Trị","Thành phố Đông Hà",3860
+"310","III","Tây Ninh","Huyện Dương Minh Châu",3860
+"311","III","An Giang","Huyện Thoại Sơn",3860
+"312","III","Nghệ An","Huyện Đô Lương",3860
+"313","III","Quảng Ngãi","Huyện Bình Sơn",3860
+"314","III","Quảng Ngãi","Huyện Sơn Tịnh",3860
+"315","III","Cần Thơ","Huyện Thớt Lai",3860
+"316","III","Cần Thơ","Huyện Vĩnh Thạnh",3860
+"317","III","Long An","Huyện Đức Huệ",3860
+"318","III","Long An","Huyện Châu Thành",3860
+"319","III","Long An","Huyện Tân Trụ",3860
+"320","III","Bà Rịa - Vũng Tàu","Huyện Đất Đỏ",3860
+"321","III","Tây Ninh","Huyện Tân Biên",3860
+"322","III","Tây Ninh","Huyện Tân Châu",3860
+"323","III","Kiên Giang","Huyện Châu Thành",3860
+"324","III","Ninh Thuận","Huyện Ninh Hải",3860
+"325","III","Bến Tre","Huyện Bình Đại",3860
+"326","III","Nghệ An","Huyện Nam Đàn",3860
+"327","III","Quảng Bình","Huyện Quảng Trạch",3860
+"328","III","Thanh Hoá","Huyện Hậu Lộc",3860
+"329","III","Bình Phước","Thị xã Phước Long",3860
+"330","III","Lai Châu","Thành phố Lai Châu",3860
+"331","III","Thanh Hoá","Huyện Hoằng Hoá",3860
+"332","III","Nam Định","Huyện Hải Hậu",3860
+"333","III","Nam Định","Huyện Nam Trực",3860
+"334","III","Nghệ An","Thị xã Thái Hoà",3860
+"335","III","Kiên Giang","Huyện Kiên Hải",3860
+"336","III","Thanh Hoá","Huyện Quảng Xương",3860
+"337","III","Thanh Hoá","Huyện Triệu Sơn",3860
+"338","III","Bến Tre","Huyện Ba Tri",3860
+"339","III","Bến Tre","Huyện Mỏ Cày Nam",3860
+"340","III","Tuyên Quang","Thành phố Tuyên Quang",3860
+"341","III","Cao Bằng","Thành phố Cao Bằng",3860
+"342","III","Cà Mau","Huyện U Minh",3860
+"343","III","Bạc Liêu","Thị xã Giá Rai",3860
+"344","III","Phú Yên","Thị xã Sông Cầu",3860
+"345","III","Bình Phước","Thị xã Bình Long",3860
+"346","III","Khánh Hoà","Huyện Vạn Ninh",3860
+"347","III","Thanh Hoá","Huyện Đông Sơn",3860
+"348","III","Sơn La","Thành phố Sơn La",3860
+"349","III","Khánh Hoà","Huyện Diên Khánh",3860
+"350","III","Thanh Hoá","Huyện Hà Trung",3860
+"351","III","Hải Dương","Huyện Ninh Gian",3860
+"352","III","Thanh Hoá","Huyện Yên Định",3860
+"353","III","Thanh Hoá","Huyện Vĩnh Lộc",3860
+"354","III","Bình Định","Thành phố Quy Nhơn",3860
+"355","III","Quảng Ngãi","Thành phố Quảng Ngãi",3860
+"356","III","Kon Tum","Thành phố Kon Tum",3860
+"357","III","Thanh Hoá","Huyện Nga Sơn",3860
+"358","III","Sóc Trăng","Thị xã Vĩnh Châu",3860
+"359","III","Khánh Hoà","Huyện Cam Lâm",3860
+"360","III","Bắc Kạn","Thành phố Bắc Kạn",3860
+"361","III","Thái Bình","Huyện Tiền Hải",3860
+"362","III","Đắk Nông","Thành phố Gia Nghĩa",3860
+"363","III","Thanh Hoá","Huyện Thiệu Hoá",3860
+"364","III","Quảng Bình","Huyện Lê Thuỷ",3860
+"365","III","Thanh Hoá","Huyện Thọ Xuân",3860
+"366","III","Quảng Bình","Huyện Bố Trạch",3860
+"367","III","Quảng Bình","Huyện Quảng Ninh",3860
+"368","III","Sóc Trăng","Thị xã Ngã Năm",3860
+"369","III","Gia Lai","Thành phố Pleiku",3860
+"370","III","Ninh Thuận","Thành phố Phan Rang - Tháp Chàm",3860
+"371","III","Quảng Bình","Thị xã Ba Đồn",3860
+"372","IV","Bình Thuân","Huyện Tánh Linh",3450
+"373","IV","Bình Thuân","Huyện Tuy Phong",3450
+"374","IV","Quảng Nam","Huyện Bắc Hà My",3450
+"375","IV","Bình Thuân","Huyện Đức Linh",3450
+"376","IV","Tiền Giang","Huyện Tân Phú Đông",3450
+"377","IV","Quảng Ninh","Huyện Cô Tô",3450
+"378","IV","Bình Phước","Huyện Bù Đốp",3450
+"379","IV","Bình Phước","Huyện Bù Gia Mập",3450
+"380","IV","Lào Cai","Huyện Bát Xát",3450
+"381","IV","Lào Cai","Huyện Mường Khương",3450
+"382","IV","Lào Cai","Huyện Si Ma Cai",3450
+"383","IV","Phú Thọ","Huyện Yên Lập",3450
+"384","IV","Tiền Giang","Huyện Gò Công Đông",3450
+"385","IV","Lâm Đồng","Huyện Bảo Lâm",3450
+"386","IV","Lâm Đồng","Huyện Cát Tiên",3450
+"387","IV","Quảng Ninh","Huyện Bình Liêu",3450
+"388","IV","Lào Cai","Huyện Bảo Yên",3450
+"389","IV","Trà Vinh","Huyện Cầu Ngang",3450
+"390","IV","Lào Cai","Huyện Bắc Hà",3450
+"391","IV","Quảng Nam","Huyện Nam Trà My",3450
+"392","IV","Bình Thuân","Huyện Phú Quý",3450
+"393","IV","Long An","Huyện Tân Thạch",3450
+"394","IV","Kiên Giang","Huyện U Minh Thượng",3450
+"395","IV","Lâm Đồng","Huyện Đạ Tẻh",3450
+"396","IV","Phú Thọ","Huyện Thanh Thuỷ",3450
+"397","IV","Trà Vinh","Huyện Châu Thành",3450
+"398","IV","Hà Nam","Huyện Thanh Liêm",3450
+"399","IV","Cà Mau","Huyện Thời Bình",3450
+"400","IV","Bình Phước","Huyện Bù Đăng",3450
+"401","IV","Long An","Huyện Mộc Hoá",3450
+"402","IV","Quảng Ninh","Huyện Ba Chẽ",3450
+"403","IV","Long An","Huyện Tân Hưng",3450
+"404","IV","An Giang","thị xã Tịnh Biên",3450
+"405","IV","Phú Thọ","Huyện Đoan Hùng",3450
+"406","IV","Quảng Nam","Huyện Tiên Phước",3450
+"407","IV","Thừa Thiên Huế","Huyện Nam Đông",3450
+"408","IV","Lâm Đồng","Huyện Lâm Hà",3450
+"409","IV","Quảng Nam","Huyện Nam Giang",3450
+"410","IV","Hà Nam","Huyện Bình Lục",3450
+"411","IV","Cà Mau","Huyện Ngọc Hiển",3450
+"412","IV","Ninh Bình","Huyện Yên Mô",3450
+"413","IV","Lâm Đồng","Huyện Đam Rông",3450
+"414","IV","Hoà Bình","Huyện Cao Phong",3450
+"415","IV","Thanh Hoá","Huyện Ngọc Lặc",3450
+"416","IV","Hoà Bình","Huyện Lạc Sơn",3450
+"417","IV","Trà Vinh","Huyện Càn Long",3450
+"418","IV","Quảng Nam","Huyện Phước Sơn",3450
+"419","IV","Thừa Thiên Huế","Huyện A Lưới",3450
+"420","IV","Hoà Bình","Huyện Yên Thuỷ",3450
+"421","IV","Bến Tre","Huyện Mỏ Cày Bắc",3450
+"422","IV","Lâm Đồng","Huyện Đạ Huoai",3450
+"423","IV","Quảng Nam","Huyện Đông Giang",3450
+"424","IV","Tiền Giang","Huyện Cái Bè",3450
+"425","IV","Tiền Giang","Huyện Cai Lậy",3450
+"426","IV","Tiền Giang","Huyện Gò Công Tây",3450
+"427","IV","Long An","Huyện Vĩnh Hưng",3450
+"428","IV","Hà Tĩnh","Huyện Hương Khê",3450
+"429","IV","Thanh Hoá","Huyện Như Thanh",3450
+"430","IV","Thanh Hoá","Huyện Như Xuân",3450
+"431","IV","Hoà Bình","Huyện Mai Châu",3450
+"432","IV","Hoà Bình","Huyện Tân Lạc",3450
+"433","IV","Bến Tre","Huyện Giồng Trôm",3450
+"434","IV","Thanh Hoá","Huyện Thường Xuân",3450
+"435","IV","Phú Thọ","Huyện Hạ Hoả",3450
+"436","IV","Ninh Bình","Huyện Nho Quan",3450
+"437","IV","Bình Thuân","Huyện Bắc Bình",3450
+"438","IV","Phú Yên","Huyện Phú Hoà",3450
+"439","IV","Phú Yên","Huyện Sông Hinh",3450
+"440","IV","Hà Tĩnh","Huyện Đức Thọ",3450
+"441","IV","Phú Yên","Huyện Tây Hoà",3450
+"442","IV","Hà Tĩnh","Huyện Hương Sơn",3450
+"443","IV","Hà Tĩnh","Huyện Kỳ Anh",3450
+"444","IV","Thanh Hoá","Huyện Nông Cống",3450
+"445","IV","Phú Thọ","Huyện Cẩm Khê",3450
+"446","IV","Thanh Hoá","Huyện Thạch Thành",3450
+"447","IV","Hà Tĩnh","Huyện Lộc Hà",3450
+"448","IV","Hoà Bình","Huyện Đà Bắc",3450
+"449","IV","Phú Thọ","Huyện Thanh Sơn",3450
+"450","IV","Kiên Giang","Huyện Tân Hiệp",3450
+"451","IV","Ninh Bình","Huyện Kim Sơn",3450
+"452","IV","Thái Nguyên","Huyện Định Hoá",3450
+"453","IV","Cà Mau","Huyện Phú Tân",3450
+"454","IV","Thanh Hoá","Huyện Mường Lát",3450
+"455","IV","Kon Tum","Huyện Kon Plông",3450
+"456","IV","Kon Tum","Huyện Kon Rẫy",3450
+"457","IV","Bình Thuân","Huyện Hàm Thuận Nam",3450
+"458","IV","Hà Tĩnh","Huyện Thạch Hà",3450
+"459","IV","Hà Tĩnh","Huyện Vũ Quang",3450
+"460","IV","Kiên Giang","Huyện Gò Quao",3450
+"461","IV","Kiên Giang","Huyện Hòn Đất",3450
+"462","IV","Ninh Thuận","Huyện Thuận Nam",3450
+"463","IV","Hà Nam","Huyện Lý Nhân",3450
+"464","IV","Vĩnh Long","Huyện Bình Tân",3450
+"465","IV","Vĩnh Long","Huyện Tam Bình",3450
+"466","IV","Vĩnh Long","Huyện Trà Ôn",3450
+"467","IV","Vĩnh Long","Huyện Vũng Liêm",3450
+"468","IV","Trà Vinh","Huyện Duyên Hải",3450
+"469","IV","Trà Vinh","Huyện Trà Cú",3450
+"470","IV","Kon Tum","Huyện Ngọc Hồi",3450
+"471","IV","Kon Tum","Huyện Sa Thầy",3450
+"472","IV","Kon Tum","Huyện Tu Mơ Rông",3450
+"473","IV","An Giang","Huyện Phú Tân",3450
+"474","IV","An Giang","Huyện Tri Tôn",3450
+"475","IV","An Giang","Huyện Chợ Mới",3450
+"476","IV","Bình Thuân","Huyện Hàm Tân",3450
+"477","IV","Quảng Nam","Huyện Nông Sơn",3450
+"478","IV","Cà Mau","Huyện Đầm Dơi",3450
+"479","IV","Bạc Liêu","Huyện Hồng Dân",3450
+"480","IV","Phú Yên","Huyện Đồng Xuân",3450
+"481","IV","Bạc Liêu","Huyện Vĩnh Lợi",3450
+"482","IV","Phú Yên","Huyện Sơn Hoà",3450
+"483","IV","Trà Vinh","Huyện Tiểu Cần",3450
+"484","IV","Hà Tĩnh","Huyện Nghi Xuân",3450
+"485","IV","Hậu Giang","Thị xã Long Mỹ",3450
+"486","IV","Hậu Giang","Huyện Vị Thuỷ",3450
+"487","IV","Hậu Giang","Huyện Long Mỹ",3450
+"488","IV","Hậu Giang","Huyện Phụng Hiệp",3450
+"489","IV","Sóc Trăng","Huyện Mỹ Xuyên",3450
+"490","IV","Bến Tre","Huyện Thạnh Phú",3450
+"491","IV","Kiên Giang","Huyện Vĩnh Thuận",3450
+"492","IV","Kiên Giang","Huyện Giang Thành",3450
+"493","IV","Kon Tum","Huyện Đăk Glei",3450
+"494","IV","Kon Tum","Huyện Ia H'Drai",3450
+"495","IV","Khánh Hoà","Huyện Khánh Sơn",3450
+"496","IV","Khánh Hoà","Huyện Đảo Trường Sa",3450
+"497","IV","Bắc Giang","Huyện Yên Thế",3450
+"498","IV","Bắc Giang","Huyện Lục Ngạn",3450
+"499","IV","Bắc Giang","Huyện Sơn Động",3450
+"500","IV","Bến Tre","Huyện Chợ Lách",3450
+"501","IV","Sóc Trăng","Huyện Thạnh Trị",3450
+"502","IV","Lâm Đồng","Huyện Đơn Dương",3450
+"503","IV","Cao Bằng","Huyện Trùng Khánh",3450
+"504","IV","Cao Bằng","Huyện Hà Quảng",3450
+"505","IV","Cao Bằng","Huyện Bảo Lạc",3450
+"506","IV","Cao Bằng","Huyện Bảo Lâm",3450
+"507","IV","Cao Bằng","Huyện Hạ Lang",3450
+"508","IV","Cao Bằng","Huyện Hoà An",3450
+"509","IV","Cao Bằng","Huyện Nguyên Bình",3450
+"510","IV","Hoà Bình","Huyện Kim Bôi",3450
+"511","IV","Cao Bằng","Huyện Quảng Hoà",3450
+"512","IV","Hoà Bình","Huyện Lạc Thuỷ",3450
+"513","IV","Bắc Giang","Huyện Lục Nam",3450
+"514","IV","Lâm Đồng","Huyện Lạc Dương",3450
+"515","IV","Đắk Lắk","Huyện Cư Kuin",3450
+"516","IV","Quảng Nam","Huyện Hiệp Đức",3450
+"517","IV","Đắk Lắk","Huyện Ea Kar",3450
+"518","IV","Đắk Lắk","Huyện Ea Súp",3450
+"519","IV","Đắk Lắk","Huyện Krông Ana",3450
+"520","IV","Bạc Liêu","Huyện Phước Long",3450
+"521","IV","Đắk Lắk","Huyện Krông Búk",3450
+"522","IV","Đắk Lắk","Huyện Krông Năng",3450
+"523","IV","Đắk Lắk","Huyện Krông Pắc",3450
+"524","IV","Kiên Giang","Huyện An Biên",3450
+"525","IV","Kiên Giang","Huyện An Minh",3450
+"526","IV","Đắk Lắk","Thị xã Buôn Hồ",3450
+"527","IV","Đắk Lắk","Huyện Buôn Đôn",3450
+"528","IV","Đắk Nông","Huyện Đắk Glong",3450
+"529","IV","Đắk Nông","Huyện Đắk Mil",3450
+"530","IV","Đắk Nông","Huyện Đắk R'lấp",3450
+"531","IV","Đắk Nông","Huyện Đắk Song",3450
+"532","IV","Thanh Hoá","Huyện Bá Thước",3450
+"533","IV","Thanh Hoá","Huyện Cẩm Thuỷ",3450
+"534","IV","Thái Nguyên","Huyện Võ Nhai",3450
+"535","IV","Điện Biên","Thị xã Mường Lay",3450
+"536","IV","Điện Biên","Huyện Điện Biên",3450
+"537","IV","Điện Biên","Huyện Điện Biên Đông",3450
+"538","IV","Điện Biên","Huyện Mường Ảng",3450
+"539","IV","Điện Biên","Huyện Mường Chà",3450
+"540","IV","Đắk Nông","Huyện Cư Jút",3450
+"541","IV","Điện Biên","Huyện Tủa Chùa",3450
+"542","IV","Điện Biên","Huyện Tuần Giáo",3450
+"543","IV","Điện Biên","Huyện Nậm Pồ",3450
+"544","IV","Phú Thọ","Huyện Tân Sơn",3450
+"545","IV","Hà Tĩnh","Thị Xã Hồng Lĩnh",3450
+"546","IV","Hà Tĩnh","Huyện Cẩm Xuyên",3450
+"547","IV","Hà Tĩnh","Huyện Can Lộc",3450
+"548","IV","Đồng Tháp","Huyện Châu Thành",3450
+"549","IV","Đồng Tháp","Huyện Hồng Ngự",3450
+"550","IV","Đồng Tháp","Huyện Lai Vung",3450
+"551","IV","Đồng Tháp","Huyện Lấp Vò",3450
+"552","IV","Đồng Tháp","Huyện Tam Nông",3450
+"553","IV","Thanh Hoá","Huyện Quan Hoá",3450
+"554","IV","Đồng Tháp","Huyện Tháp Mười",3450
+"555","IV","Đồng Tháp","Huyện Thanh Bình",3450
+"556","IV","Đắk Lắk","Huyện Cư M'Gar",3450
+"557","IV","Gia Lai","Thị xã An Khê",3450
+"558","IV","Gia Lai","Thị xã Ayun Pa",3450
+"559","IV","Gia Lai","Huyện Chư Păh",3450
+"560","IV","Gia Lai","Huyện Chư Prông",3450
+"561","IV","Gia Lai","Huyện Chư Sê",3450
+"562","IV","Gia Lai","Huyện Đắk Đoa",3450
+"563","IV","Gia Lai","Huyện Chư Pưh",3450
+"564","IV","Đắk Lắk","Huyện Lắk",3450
+"565","IV","Đắk Lắk","Huyện M'Drắk",3450
+"566","IV","Đồng Tháp","Huyện Tân Hồng",3450
+"567","IV","Kiên Giang","Huyện Rồng Riềng",3450
+"568","IV","Ninh Thuận","Huyện Bác Ái",3450
+"569","IV","Ninh Thuận","Huyện Ninh Sơn",3450
+"570","IV","Gia Lai","Huyện Ia Grai",3450
+"571","IV","Gia Lai","Huyện Đức Cơ",3450
+"572","IV","Gia Lai","Huyện Đak Pơ",3450
+"573","IV","Kon Tum","Huyện Đăk Tô",3450
+"574","IV","Hà Giang","Huyện Bắc Mê",3450
+"575","IV","Hà Giang","Huyện Mắc Quang",3450
+"576","IV","Hà Giang","Huyện Đồng Văn",3450
+"577","IV","Hà Giang","Huyện Hoàng Su Phì",3450
+"578","IV","Hà Giang","Huyện Mèo Vạc",3450
+"579","IV","Hà Giang","Huyện Quản Bạ",3450
+"580","IV","Hà Giang","Huyện Quang Bình",3450
+"581","IV","Hà Giang","Huyện Vị Xuyên",3450
+"582","IV","Hà Giang","Huyện Xín Mần",3450
+"583","IV","Hà Giang","Huyện Yên Minh",3450
+"584","IV","An Giang","Huyện An Phú",3450
+"585","IV","Lai Châu","Huyện Mường Tè",3450
+"586","IV","Lai Châu","Huyện Phong Thổ",3450
+"587","IV","Lai Châu","Huyện Sìn Hồ",3450
+"588","IV","Lai Châu","Huyện Tam Đường",3450
+"589","IV","Lai Châu","Huyện Than Uyên",3450
+"590","IV","Lai Châu","Huyện Tân Uyên",3450
+"591","IV","Lai Châu","Huyện Nậm Nhùn",3450
+"592","IV","Trà Vinh","Huyện Cầu Kè",3450
+"593","IV","Lạng Sơn","Huyện Bắc Sơn",3450
+"594","IV","Lạng Sơn","Huyện Bình Gia",3450
+"595","IV","Lạng Sơn","Huyện Cao Lộc",3450
+"596","IV","Lạng Sơn","Huyện Chi Lăng",3450
+"597","IV","Lạng Sơn","Huyện Đình Lập",3450
+"598","IV","Lạng Sơn","Huyện Hữu Lũng",3450
+"599","IV","Lạng Sơn","Huyện Lộc Bình",3450
+"600","IV","Lạng Sơn","Huyện Tràng Định",3450
+"601","IV","Lạng Sơn","Huyện Văn Lãng",3450
+"602","IV","Lạng Sơn","Huyện Văn Quan",3450
+"603","IV","Bạc Liêu","Huyện Đông Hải",3450
+"604","IV","Gia Lai","Huyện Phú Thiện",3450
+"605","IV","Gia Lai","Huyện Mang Yang",3450
+"606","IV","Gia Lai","Huyện Krông Pa",3450
+"607","IV","Sóc Trăng","Huyện Mỹ Tú",3450
+"608","IV","Sóc Trăng","Huyện Long Phú",3450
+"609","IV","Quảng Bình","Huyện Minh Hoá",3450
+"610","IV","Quảng Bình","Huyện Tuyên Hoá",3450
+"611","IV","Sóc Trăng","Huyện Châu Thành",3450
+"612","IV","Sóc Trăng","Huyện Trần Đề",3450
+"613","IV","Sóc Trăng","Huyện Kế Sách",3450
+"614","IV","Sóc Trăng","Huyện Cù Lao Dung",3450
+"615","IV","Khánh Hoà","Huyện Khánh Vinh",3450
+"616","IV","Bắc Kạn","Huyện Pác Nặm",3450
+"617","IV","Bắc Kạn","Huyện Ba Bể",3450
+"618","IV","Bắc Kạn","Huyện Ngân Sơn",3450
+"619","IV","Bắc Kạn","Huyện Bạch Thông",3450
+"620","IV","Bắc Kạn","Huyện Chợ Đồn",3450
+"621","IV","Bắc Kạn","Huyện Chợ Mới",3450
+"622","IV","Bắc Kạn","Huyện Na Rì",3450
+"623","IV","Nghệ An","Huyện Anh Sơn",3450
+"624","IV","Nghệ An","Huyện Con Cuông",3450
+"625","IV","Nghệ An","Huyện Quỳ Châu",3450
+"626","IV","Nghệ An","Huyện Kỳ Sơn",3450
+"627","IV","Nghệ An","Huyện Quế Phong",3450
+"628","IV","Nghệ An","Huyện Tân Kỳ",3450
+"629","IV","Nghệ An","Huyện Thanh Chương",3450
+"630","IV","Nghệ An","Huyện Tương Dương",3450
+"631","IV","Cao Bằng","Huyện Thạch An",3450
+"632","IV","Quảng Trị","Thị xã Quảng Trị",3450
+"633","IV","Quảng Trị","Huyện Cam Lộ",3450
+"634","IV","Quảng Trị","Huyện Cồn Cỏ",3450
+"635","IV","Quảng Trị","Huyện Đak Rông",3450
+"636","IV","Quảng Trị","Huyện Gio Linh",3450
+"637","IV","Quảng Trị","Huyện Hải Lăng",3450
+"638","IV","Quảng Trị","Huyện Hướng Hoá",3450
+"639","IV","Quảng Trị","Huyện Triệu Phong",3450
+"640","IV","Quảng Trị","Huyện Vĩnh Linh",3450
+"641","IV","Đắk Lắk","Huyện Krông Bông",3450
+"642","IV","Sơn La","Huyện Quỳnh Nha",3450
+"643","IV","Sơn La","Huyện Mường La",3450
+"644","IV","Sơn La","Huyện Thuận Châu",3450
+"645","IV","Sơn La","Huyện Phù Yên",3450
+"646","IV","Sơn La","Huyện Bắc Yên",3450
+"647","IV","Sơn La","Huyện Mai Sơn",3450
+"648","IV","Sơn La","Huyện Sông Mã",3450
+"649","IV","Sơn La","Huyện Yên Châu",3450
+"650","IV","Sơn La","Huyện Mộc Châu",3450
+"651","IV","Sơn La","Huyện Sốp Cộp",3450
+"652","IV","Sơn La","Huyện Vân Hồ",3450
+"653","IV","Đắk Nông","Huyện Krông Nô",3450
+"654","IV","Đắk Nông","Huyện Tuy Đức",3450
+"655","IV","Thanh Hoá","Huyện Lang Chánh",3450
+"656","IV","Thái Bình","Huyện Đông Hưng",3450
+"657","IV","Thái Bình","Huyện Hưng Hà",3450
+"658","IV","Thái Bình","Huyện Kiến Xương",3450
+"659","IV","Thái Bình","Huyện Quỳnh Phụ",3450
+"660","IV","Thái Bình","Huyện Vũ Thư",3450
+"661","IV","Điện Biên","Huyện Mường Nhé",3450
+"662","IV","Tuyên Quang","Huyện Chiêm Hoá",3450
+"663","IV","Tuyên Quang","Huyện Hàm Yên",3450
+"664","IV","Tuyên Quang","Huyện Lâm Bình",3450
+"665","IV","Tuyên Quang","Huyện Na Hang",3450
+"666","IV","Tuyên Quang","Huyện Sơn DƯơng",3450
+"667","IV","Tuyên Quang","Huyện Yên Sơn",3450
+"668","IV","Đồng Tháp","Huyện Cao Lãnh",3450
+"669","IV","Yên Bái","Thị xã Nghĩa Lộ",3450
+"670","IV","Yên Bái","Huyện Lục Yên",3450
+"671","IV","Yên Bái","Huyện Mù Cang Chải",3450
+"672","IV","Yên Bái","Huyện Trạm Tấu",3450
+"673","IV","Yên Bái","Huyện Trấn Yên",3450
+"674","IV","Yên Bái","Huyện Văn Chấn",3450
+"675","IV","Yên Bái","Huyện Văn Yên",3450
+"676","IV","Yên Bái","Huyện Yên Bình",3450
+"677","IV","Lào Cai","Huyện Văn Bàn",3450
+"678","IV","Bình Định","Thị xã An Nhơn",3450
+"679","IV","Bình Định","Thị xã Hoài Nhơn",3450
+"680","IV","Bình Định","Huyện An Lão",3450
+"681","IV","Bình Định","Huyện Phù Cát",3450
+"682","IV","Bình Định","Huyện Phù Mỹ",3450
+"683","IV","Bình Định","Huyện Tuy Phước",3450
+"684","IV","Bình Định","Huyện Tây Sơn",3450
+"685","IV","Bình Định","Huyện Vân Canh",3450
+"686","IV","Bình Định","Huyện Vĩnh Thạnh",3450
+"687","IV","Bình Định","Huyện Hoài Ân",3450
+"688","IV","Gia Lai","Huyện Krông Chro",3450
+"689","IV","Gia Lai","Huyện K'Bang",3450
+"690","IV","Gia Lai","Huyện Ia Pa",3450
+"691","IV","Quảng Ngãi","Thị xã Đức Phổ",3450
+"692","IV","Quảng Ngãi","Huyện Ba Tơ",3450
+"693","IV","Quảng Ngãi","Huyện Minh Long",3450
+"694","IV","Quảng Ngãi","Huyện Mộ Đức",3450
+"695","IV","Quảng Ngãi","Huyện Lý Sơn",3450
+"696","IV","Quảng Ngãi","Huyện Tư Nghĩa",3450
+"697","IV","Quảng Ngãi","Huyện Trà Bồng",3450
+"698","IV","Quảng Ngãi","Huyện Sơn Tây",3450
+"699","IV","Quảng Ngãi","Huyện Sơn Hà",3450
+"700","IV","Quảng Ngãi","Huyện Nghĩa Hành",3450

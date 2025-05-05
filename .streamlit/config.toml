@@ -1,0 +1,19 @@
+[client]
+
+showSidebarNavigation = false
+
+[server]
+
+runOnSave = true
+maxUploadSize = 1000
+maxMessageSize = 1000
+port = 8502
+
+[theme]
+
+base = "light"
+primaryColor = "darkblue"
+
+[global]
+developmentMode = false
+
